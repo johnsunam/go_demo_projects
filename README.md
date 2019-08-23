@@ -4,6 +4,6 @@ Here is a list of mini projects written on go. This project will be very much he
 ## run command
 Run below command inside project folder
 
-```go build {project_name}.go```
+#### go build {project_name}.go
 
-```./{project_name}```
+#### ./{project_name}
